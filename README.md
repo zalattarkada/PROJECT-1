@@ -2,7 +2,7 @@
 
 ![](imagenes/shark1.gif)
 
-En el siguiente proyecto realizado en Ironhack, podremos encontrar un analisis de un data set sobre ataques de tiburones. https://www.sharks.org/global-shark-attack-file.
+En el siguiente proyecto realizado en Ironhack, podremos encontrar un análisis de un data set sobre ataques de tiburones. https://www.sharks.org/global-shark-attack-file.
 
 ## Data Cleaning
 
