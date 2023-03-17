@@ -1,10 +1,10 @@
 # SHARK PROJECT
 
-![](shark1.gif)
+![](imagenes/shark1.gif)
 
-En el siguiente proyecto sobre un Data Set realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.sharks.org/global-shark-attack-file.
+En el siguiente proyecto sobre un Data Set realizado en IronHack, podremos encontrar un analisis de un documento sobre ataques de tiburones. https://www.sharks.org/global-shark-attack-file.
 
-## Hipótesis principal
+## Hipótesis principal
 
 **"Teniendo en cuenta que la tasa de mortalidad de los hombres víctimas de ataques de tiburones es claramente menor que la de las víctimas masculinas."**
 
