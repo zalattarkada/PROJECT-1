@@ -1,6 +1,6 @@
 # SHARK PROJECT
 
-![](shark1.jpeg)
+![](shark1.gif)
 
 En el siguiente proyecto sobre un Data Set realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.sharks.org/global-shark-attack-file.
 
