@@ -1,0 +1,1327 @@
+sex,fatal (y/n),activity,time of the day
+F,N,Paddling,Evening
+M,N,Surfing,Morning
+M,N,Walking,Evening
+M,N,Standing,Afternoon
+M,N,Swimming,Afternoon
+M,N,Fishing,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Scuba diving,Morning
+M,N,Surfing,Afternoon
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Fishing,Night
+M,N,Paddle-skiing,Morning
+M,N,Surfing,Morning
+M,N,Swimming,Evening
+M,N,Surfing,Afternoon
+M,N,Stand-Up Paddleboarding,Morning
+M,N,Wading,Evening
+M,N,Swimming,Afternoon
+M,N,Surfing,Morning
+M,N,Walking,Afternoon
+F,N,Swimming,Evening
+M,N,Spearfishing,Afternoon
+M,N,Diving,Afternoon
+F,N,Surfing,Evening
+F,N,Surfing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,Surfing,Afternoon
+M,Y,Night bathing,Night
+M,N,Surfing,Morning
+M,N,Stand-Up Paddleboarding,Afternoon
+M,N,Surfing ,Evening
+F,N,Swimming,Morning
+M,N,Kayaking,Morning
+M,N,Swimming,Afternoon
+M,N,Surfing,Evening
+F,N,Snorkeling,Afternoon
+M,N,Surfing,Evening
+M,N,Surfing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Surfing,Evening
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+F,N,Wading,Afternoon
+M,N,SUP,Morning
+M,N,Spearfishing,Afternoon
+M,N,Swimming,Afternoon
+M,N,Fishing,Night
+M,N,Kayaking / Fishing,Morning
+M,N,Skimboarding,Evening
+M,N,Surfing,Evening
+M,N,Kayaking,Morning
+M,N,SUP,Morning
+M,N,Surfing,Morning
+M,N,Kayaking,Morning
+F,N,Surfing,Afternoon
+M,N,Body boarding,Morning
+M,N,Swimming,Afternoon
+M,N,Body boarding,Morning
+F,N,Surfing,Afternoon
+M,Y,Snorkeling,Evening
+F,N,Swimming,Evening
+M,N,Surfing,Evening
+F,N,Surfing,Morning
+M,Y,Body boarding,Morning
+F,N,Body boarding,Afternoon
+F,N,Snorkeling,Afternoon
+F,Y,Surfing,Afternoon
+M,N,Surfing,Afternoon
+F,N,Surfing,Afternoon
+F,N,Surfing,Afternoon
+F,N,Paddle boarding,Evening
+F,N,Swimming,Evening
+F,N,Swimming,Afternoon
+F,N,Swimming,Afternoon
+M,N,Body boarding,Evening
+M,N,Kayaking,Afternoon
+M,Y,Body boarding,Morning
+M,N,Spearfishing,Morning
+M,N,Swimming,Afternoon
+M,N,Scuba Diving,Afternoon
+M,N,Wading,Afternoon
+M,N,Surf skiing ,Morning
+M,N,Free diving,Morning
+M,N,Surf fishing,Night
+M,N,Fishing,Morning
+F,N,Floating,Morning
+F,N,Snorkeling,Morning
+M,N,Surfing,Morning
+M,N,Surfng,Evening
+M,N,Surfing,Morning
+M,N,Surfing,Afternoon
+M,N,Surfing,Morning
+M,N,Wading,Afternoon
+F,N,Swimming,Afternoon
+M,Y,Kite surfing,Afternoon
+M,N,Wading,Afternoon
+M,N,SUP Foil boarding,Afternoon
+M,N,Swimming,Morning
+M,N,Surfing,Afternoon
+M,N,Surfing,Evening
+M,N,Kite surfing,Evening
+M,N,Fishing,Morning
+M,N,Fishing,Night
+M,N,Surfing,Afternoon
+M,N,Scuba Diving,Morning
+M,N,Floating,Afternoon
+M,N,Wading,Afternoon
+F,N,Floating in tube,Evening
+M,N,Standing,Afternoon
+M,N,Swimming,Morning
+F,Y,Diving,Morning
+M,Y,Surfing,Afternoon
+F,N,Swimming,Afternoon
+M,N,Swimming,Afternoon
+F,N,Swimming,Afternoon
+F,N,Swimming,Evening
+F,N,Teasing a shark,Afternoon
+M,N,Floating,Afternoon
+M,N,Surfing,Evening
+M,N,Surf-skiing,Morning
+F,Y,Walking,Morning
+F,N,Snorkeling,Morning
+M,N,Surfing,Evening
+M,N,Body surfing,Afternoon
+M,N,Kite surfing,Evening
+M,N,Spearfishing,Afternoon
+F,N,Wading,Afternoon
+F,N,Walking,Afternoon
+F,N,Surfing,Morning
+M,N,Spearfishing,Morning
+M,N,Snorkeling,Morning
+F,N,Swimming,Morning
+M,N,Surfing,Evening
+M,N,Swimming,Morning
+F,N,Wading,Afternoon
+M,N,Fishing,Night
+M,N,Body boarding,Afternoon
+M,N,Surfing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Kayak Fishing,Morning
+F,N,Boogie boarding,Afternoon
+M,N,Surfing,Morning
+M,N,Body boarding,Afternoon
+M,N,Wading,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,Photographing fish,Morning
+M,N,Swimming,Evening
+M,N,Surfing,Morning
+F,N,Stand-Up Paddleboarding,Evening
+M,N,Kayak Fishing,Afternoon
+M,N,Surf-skiing,Morning
+F,N,Wading,Morning
+F,N,Surfing,Morning
+M,N,Surfing,Afternoon
+F,N,Walking,Afternoon
+M,N,Kayak Fishing,Morning
+M,N,Spearfishing,Morning
+M,Y,Scallop diving on hookah,Morning
+M,N,Surfing,Morning
+M,N,Body boarding ,Morning
+M,N,Swimming,Afternoon
+M,N,Playing in the water,Evening
+M,N,Swimming,Afternoon
+M,N,Body Boarding,Afternoon
+M,N,Standing,Morning
+M,N,Body surfing?,Morning
+M,N,Swimming,Afternoon
+F,N,Surfing,Morning
+M,N,Swimming,Afternoon
+M,N,Wading,Evening
+F,N,Wading,Afternoon
+F,N,Boogie boarding,Afternoon
+M,N,Playing,Morning
+F,N,Standing,Afternoon
+F,N,Wading,Afternoon
+M,N,Diving,Afternoon
+F,Y,Snorkeling,Morning
+M,N,Wading,Afternoon
+M,N,Surfing,Morning
+M,N,Surf skiing ,Morning
+M,Y,Surfing,Morning
+M,N,Paddle boarding,Morning
+M,N,Standing / Snorkeling,Morning
+M,N,Hand feeding sharks,Morning
+M,N,Fishing,Morning
+F,Y,Swimming,Evening
+M,Y,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Rowing,Morning
+M,N,Shark fishing,Night
+M,N,Fishing,Afternoon
+M,Y,Spearfishing,Morning
+M,N,Fishing for blue sharks,Morning
+M,N,Snorkeling,Afternoon
+M,N,Surfing,Morning
+F,N,Stand-Up Paddleboarding,Morning
+M,N,Stand-Up Paddleboarding,Morning
+M,N,Surfing,Morning
+F,N,Surfing,Morning
+F,N,Body surfing or Boogie boarding,Afternoon
+M,N,Kayaking,Evening
+M,N,Kayaking,Afternoon
+M,N,Kayaking ,Morning
+M,Y,Swimming,Morning
+M,N,Fishing ,Afternoon
+F,N,Kayaking ,Evening
+M,N,Fishing,Evening
+F,N,Body surfing,Afternoon
+M,N,Standing,Morning
+F,N,Swimming,Afternoon
+M,N,Boogie boarding,Afternoon
+M,N,Boogie boarding,Afternoon
+M,N,Swimming,Evening
+M,N,Swimming,Morning
+M,N,Spearfishing,Afternoon
+M,N,Surfing,Evening
+M,N,Body boarding,Evening
+M,N,Standing,Evening
+M,N,Body boarding,Morning
+F,N,Body boarding,Morning
+F,N,Wading,Morning
+M,N,Wading,Morning
+F,Y,Swimming,Morning
+M,Y,Swimming,Afternoon
+M,N,Kite Surfing,Evening
+M,N,Kitesurfing,Afternoon
+M,Y,Spearfishing / Free diving,Afternoon
+M,N,Surfing,Evening
+M,N,Snorkeling,Morning
+M,N,Boogie boarding,Morning
+M,Y,Kayaking / Fishing,Morning
+M,Y,Body boarding,Afternoon
+F,N,Snorkeling,Afternoon
+M,N,Shark fishing,Morning
+M,N,Kiteboarding,Afternoon
+M,N,Body boarding,Afternoon
+M,N,Diving for crayfish,Morning
+M,N,Diving ,Afternoon
+M,Y,Swimming / snorkeling,Morning
+M,N,Diving for Abalone,Morning
+M,N,Wading,Afternoon
+M,N,Diving,Morning
+M,N,Standing,Morning
+F,N,Surfing,Afternoon
+M,N,Standing,Afternoon
+M,N,Casting a net,Afternoon
+M,N,Swimming,Night
+M,N,Longline fishing for sharks,Evening
+F,N,Boogie boarding,Evening
+M,N,Wrangling a shark,Afternoon
+F,N,Surfing,Afternoon
+F,Y,Snorkeling,Afternoon
+F,N,Kiteboarding,Afternoon
+M,N,Fishing,Afternoon
+F,N,Snorkeling,Morning
+M,N,Spearfishing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Cleaning fish,Afternoon
+M,N,Diving,Morning
+F,Y,Swimming,Afternoon
+F,N,Walking in surf,Afternoon
+F,Y,Swimming & snorkeling,Afternoon
+F,N,Wading,Afternoon
+M,N,Kayaking / Fishing,Afternoon
+M,N,Swimming,Afternoon
+M,N,Swimming,Afternoon
+M,N,Swimming,Afternoon
+M,Y,Body boarding,Morning
+F,N,Swimming,Afternoon
+M,N,Fishing,Afternoon
+M,N,Playing in the surf,Morning
+M,N,Kite boarding,Afternoon
+M,N,Fishing - 'tag & release',Morning
+M,Y,Spearfishing,Morning
+M,N,Spearfishing,Morning
+M,Y,Swimming,Afternoon
+M,N,Spearfishing / Free diving,Morning
+M,N,Swimming,Afternoon
+M,N,Surfing,Afternoon
+M,N,Paddle boarding,Morning
+M,N,Surfing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,Snorkeling,Morning
+M,Y,Swimming,Morning
+M,N,Diving,Morning
+M,N,Surfing,Morning
+F,N,Swimming,Afternoon
+M,Y,Surfing,Morning
+M,N,Windsurfing,Evening
+M,N,Bodyboarding,Afternoon
+M,N,Surfing,Morning
+F,N,Boogie boarding,Evening
+F,N,Swimming or boogie boarding,Afternoon
+M,N,Surfing,Afternoon
+M,N,Surfing,Evening
+M,N,Surfing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Body surfing,Afternoon
+M,Y,Surfing,Afternoon
+M,Y,Surfing,Morning
+F,N,Swimming,Evening
+M,N,Kayaking,Morning
+F,N,Sitting in the water,Morning
+M,N,Swimming,Afternoon
+M,N,Surf skiing ,Morning
+M,N,Fishing,Afternoon
+M,N,Surf skiing ,Afternoon
+M,N,Boogie Boarding,Evening
+F,N,Wading,Afternoon
+M,N,Free diving / spearfishing,Morning
+M,N,Kayaking / Fishing,Afternoon
+F,N,Swimming,Morning
+F,N,Paddle boarding,Morning
+M,N,Surfing,Evening
+M,Y,Body boarding,Afternoon
+M,N,Surfing,Afternoon
+M,Y,Scuba diving,Morning
+M,N,Surfing,Afternoon
+M,N,Surfing,Afternoon
+F,N,"Diving, feeding sharks",Morning
+M,N,Body boarding,Afternoon
+M,N,Kite Surfing,Afternoon
+M,N,Kite Surfing,Afternoon
+M,N,Fishing,Afternoon
+M,Y,Swimming,Afternoon
+M,N,Surfing,Evening
+M,N,Surfing,Morning
+F,N,Surfing,Morning
+M,Y,Diving,Afternoon
+M,N,Diving,Afternoon
+M,Y,Swimming,Morning
+M,N,Canoeing,Morning
+M,N,Jumping in the waves,Morning
+M,N,Canoeing,Afternoon
+M,Y,Body boarding,Afternoon
+M,N,Surfing,Afternoon
+M,Y,Body boarding,Afternoon
+F,N,Wade Fishing,Evening
+M,Y,Surfing,Morning
+F,N,Wading,Evening
+M,Y,Swimming or Snorkeling,Afternoon
+M,Y,Diving,Afternoon
+F,N,Boogie Boarding,Evening
+M,N,Kayaking or Wave skiing,Evening
+M,N,Surf fishing,Evening
+M,N,Scuba diving,Afternoon
+M,N,Swimming,Evening
+M,N,Surfing,Afternoon
+M,N,Kayaking,Morning
+M,N,Scuba diving,Afternoon
+M,Y,Surfing,Afternoon
+M,Y,Boogie Boarding,Evening
+M,N,Scuba diving,Afternoon
+M,N,Wading,Afternoon
+F,N,Standing or boogie boardin,Afternoon
+F,N,Surfing,Afternoon
+F,N,Paddle boarding,Afternoon
+M,Y,Kite Boarding,Morning
+M,N,Washing sand off a speared fish,Afternoon
+M,N,Surfing ,Afternoon
+M,N,Surfing,Evening
+M,N,Diving / fishing,Afternoon
+F,N,Wakeboarding,Afternoon
+M,N,Fishing,Morning
+M,Y,Diving for abalone,Evening
+M,N,Fishing,Morning
+M,N,Scuba diving,Afternoon
+M,Y,Surfing,Afternoon
+M,N,Body boarding,Afternoon
+M,N,Surfing,Afternoon
+F,Y,Snorkeling,Afternoon
+M,N,Snorkeling,Morning
+F,N,Snorkeling,Afternoon
+F,N,Snorkeling,Afternoon
+M,N,Surfing,Afternoon
+M,Y,Body boarding,Morning
+M,N,Swimming /  Whale Watching,Afternoon
+M,N,Boogie Boarding,Morning
+M,Y,Surfing,Morning
+F,N,Fishing,Evening
+M,N,Kayaking,Afternoon
+F,N,Standing,Morning
+M,N,Swimming,Morning
+M,N,Swimming,Evening
+M,N,Fishing,Afternoon
+M,N,Stand-Up Paddleboarding,Afternoon
+F,N,Boogie Boarding,Afternoon
+M,N,Fishing,Morning
+F,N,Rescuing,Evening
+M,N,Scuba diving,Morning
+F,N,Wading,Morning
+M,N,Swimming / treading water,Afternoon
+F,N,Snorkeling,Afternoon
+M,N,Body boarding,Afternoon
+M,N,Surf fishing / wading,Afternoon
+M,Y,Kite Boarding,Afternoon
+F,N,Boogie Boarding,Evening
+M,Y,Standing,Afternoon
+M,N,Bathing,Morning
+M,N,Spearfishing,Morning
+M,N,Wading,Morning
+M,N,Spearfishing,Morning
+M,Y,Paddling on kneeboard,Afternoon
+M,N,Fishing,Afternoon
+F,N,Surfing,Afternoon
+F,N,Paddle-boarding,Morning
+F,N,Wading,Evening
+M,N,Diving,Afternoon
+M,N,Fishing,Afternoon
+M,N,Swimming,Evening
+M,Y,Swimming,Night
+M,Y,Surfing,Afternoon
+F,N,Swimming,Afternoon
+M,N,Wade Fishing,Morning
+M,N,Paddle-surfing,Morning
+F,N,Boogie Boarding,Afternoon
+M,N,Fishing,Evening
+M,N,Swimming,Evening
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Afternoon
+M,N,Surf skiing ,Morning
+M,N,Spearfishing,Morning
+F,N,Surfing,Morning
+F,N,Surfing,Evening
+M,N,Swimming,Evening
+M,Y,Surfing,Morning
+M,N,Fishing,Afternoon
+M,N,Fishing,Morning
+M,N,Surfing,Evening
+M,N,Spearfishing,Morning
+M,Y,Swimming,Afternoon
+M,N,Fishing,Morning
+M,N,Snorkeling,Morning
+M,Y,Snorkeling,Morning
+M,N,Kayaking,Afternoon
+M,N,Scuba diving,Evening
+M,N,Spearfishing,Morning
+M,N,Fishing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,"Swimming, towing surfboard",Afternoon
+F,N,Wading,Afternoon
+M,N,Diving,Afternoon
+M,N,Swimming or surfing,Evening
+F,N,Wading,Afternoon
+M,N,Wading,Afternoon
+F,N,Swimming,Evening
+M,N,Surf skiing ,Afternoon
+M,N,Swimming,Morning
+F,N,Kayaking,Morning
+F,N,Wading,Morning
+F,N,Body surfing,Evening
+M,N,Swimming,Morning
+M,N,Surfing,Morning
+M,Y,Swimming,Morning
+M,Y,Body boarding,Morning
+M,N,Walking out of the water after surfing,Afternoon
+M,N,Surfing,Evening
+M,N,Walking out of the water after surfing,Morning
+M,N,Wading,Afternoon
+M,Y,Diving,Morning
+M,N,Accidentally stood on hooked shark's tail before attempting to gut it ,Morning
+M,N,Surfing,Afternoon
+M,N,Floating,Afternoon
+F,N,Surf-skiing,Morning
+M,Y,"The 426-ton cargo ship Mia, laden with cement, capsized in heavy seas ",Afternoon
+F,N,Spearfishing,Afternoon
+F,N,Surfing,Morning
+F,N,Swimming,Morning
+M,N,Surfing,Evening
+M,N,Wading?,Morning
+M,N,Snorkeling,Afternoon
+F,N,Wading,Morning
+F,N,Wading,Afternoon
+M,N,Standing,Evening
+M,N,Swimming,Morning
+M,N,Surfing,Morning
+M,N,Fishing,Evening
+M,N,Swimming,Evening
+M,N,Surfing,Afternoon
+M,N,Playing,Morning
+F,N,Swimming,Evening
+M,N,Walking out of the water after surfing,Evening
+M,N,Swimming,Afternoon
+M,N,Boogie Boarding,Afternoon
+M,N,Surfing,Night
+M,N,Kayak Fishing,Morning
+M,N,Snorkeling,Afternoon
+M,N,Wading,Morning
+M,N,Swimming,Afternoon
+F,N,Spearfishing,Morning
+F,N,Swimming,Morning
+M,N,Surfing,Morning
+F,N,Wading,Afternoon
+F,N,Snorkeling,Morning
+F,N,Swimming / jumping off a jetty,Evening
+M,N,Body boarding,Afternoon
+M,N,Playing on a sandbar,Afternoon
+F,N,Surfing,Morning
+F,N,Swimming,Afternoon
+M,N,Boogie Boarding,Morning
+M,N,Spearfishing (free diving),Afternoon
+M,N,Diving,Morning
+M,N,Surfing,Morning
+M,N,Surfing,Morning
+M,N,Body boarding,Morning
+M,N,Playing soccer in the water,Afternoon
+M,N,Standing,Evening
+M,N,Swimming,Evening
+M,N,Body boarding,Evening
+M,N,Lifesaving drill,Morning
+F,N,Wading,Afternoon
+M,N,Surf-skiing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Standing,Morning
+M,N,Wading,Evening
+M,N,Walking,Afternoon
+F,N,Body boarding,Morning
+F,N,Body boarding,Morning
+M,Y,Body boarding,Morning
+M,N,Scuba diving,Morning
+F,N,Playing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,Spearfishing,Afternoon
+F,N,Scuba diving,Afternoon
+M,N,Snorkeling,Afternoon
+M,N,Body boarding,Evening
+F,N,Standing,Afternoon
+F,Y,Swimming,Evening
+M,N,Spearfishing,Afternoon
+M,N,Night Surfing,Night
+M,N,Scuba diving,Morning
+F,Y,Swimming,Evening
+M,N,Swimming,Morning
+M,N,Fishing for sharks,Afternoon
+M,N,Surfing,Morning
+M,N,Standing,Morning
+F,N,Surfing,Morning
+M,N,Wading,Evening
+F,N,Scuba diving,Afternoon
+M,N,Treading water/ Surfing,Afternoon
+M,N,Surf-skiing,Afternoon
+M,N,Surfing,Afternoon
+F,N,Body surfing,Afternoon
+M,Y,Surfing,Afternoon
+M,N,Standing / Surfing,Morning
+M,Y,Scuba diving,Afternoon
+M,N,Walking,Evening
+F,N,Wading,Evening
+F,N,Holding onto an inflatable boat,Afternoon
+M,N,Standing,Morning
+M,N,Fishing,Morning
+F,Y,Swimming with boogie board,Morning
+M,Y,Spearfishing (Free diving),Afternoon
+F,N,Crouching in 2' of water,Evening
+M,N,Fishing,Night
+M,N,Surfing,Morning
+M,Y,Snorkeling,Afternoon
+M,N,Diving in aquarium display tank,Afternoon
+M,N,Fishing from a kayak,Afternoon
+M,Y,Scurfing (surfboard being  towed behind a boat),Afternoon
+M,Y,Spearfishing,Afternoon
+F,Y,Swimming,Morning
+M,N,Snorkeling,Morning
+M,N,Spearfishing,Afternoon
+M,N,Body boarding,Afternoon
+F,N,Jumping,Afternoon
+F,N,Walking,Evening
+M,N,Bathing,Afternoon
+M,Y,Diving,Afternoon
+M,N,Wading / fishing & carrying a bag of fish,Evening
+M,Y,Surfing,Afternoon
+M,N,Wading,Afternoon
+M,Y,"Swimming, poaching perlemoen",Afternoon
+M,N,Wading,Evening
+M,N,Boogie-boarding / swimming,Afternoon
+F,N,Wading,Afternoon
+M,N,Free diving & spearfishing,Afternoon
+M,N,Tandem surfing,Afternoon
+M,Y,Surfing,Morning
+F,N,Snorkeling,Morning
+M,N,Spearfishing,Afternoon
+M,N,Scuba diving,Morning
+M,N,Swimming,Afternoon
+M,N,Surfing amid a shoal of sharks,Morning
+F,N,Surfing,Afternoon
+F,N,Surfing,Morning
+M,N,Sitting on surfboard,Afternoon
+F,N,Wading near a fishing net,Afternoon
+M,N,Surfing,Afternoon
+M,N,Body boarding,Evening
+M,Y,Body boarding,Afternoon
+M,N,Fishing,Afternoon
+F,Y,"Swimming, wearing black wetsuit & swim fins",Morning
+M,N,Sitting on surfboard,Morning
+M,N,Surfing,Afternoon
+F,N,Wading,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,"Walking, carrying surfboard & stepped on shark",Morning
+M,N,Spearfishing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Swimming with pod of dolphins,Morning
+M,N,Wading,Afternoon
+M,N,Surfing,Morning
+F,N,Walking,Afternoon
+M,N,Swimming ,Evening
+M,N,Jumping,Afternoon
+M,N,Surfing,Morning
+M,N,Swimming (using a float),Afternoon
+M,N,Scuba diving,Morning
+M,Y,Swimming,Night
+F,N,Swimming,Morning
+F,N,Snorkeling,Morning
+M,N,Surfing,Afternoon
+M,N,Boogie boarding,Afternoon
+F,N,Swimming,Morning
+M,Y,Swimming,Afternoon
+M,N,Surfing,Afternoon
+M,N,Fishing from Surfboard,Afternoon
+M,N,Surf skiing,Afternoon
+M,N,Boogie boarding,Afternoon
+M,N,"Wading, when he stepped on the shark",Evening
+M,N,Surfing,Afternoon
+M,N,Standing,Afternoon
+F,N,Standing,Evening
+F,N,Swimming,Afternoon
+M,N,Surfing,Morning
+M,N,Surfing,Afternoon
+M,N,Floating on a raft,Afternoon
+M,N,"Fishing, removing the shark from his line",Evening
+M,N,Playing in the surf with his 2 dogs,Morning
+M,Y,Scallop diving (using surface-supplied air & a POD) ,Afternoon
+M,N,"Surfing, but standing in water alongside board",Morning
+M,N,Surfing,Morning
+M,N,Swimming,Evening
+M,N,Standing,Morning
+M,N,Wading,Afternoon
+M,N,Swimming / Wading,Morning
+M,N,Body-boarding,Afternoon
+F,N,Wading,Morning
+M,Y,Swimming,Evening
+M,N,Swimming /  boogie boarding,Afternoon
+M,N,Surfing,Morning
+M,N,Kayaking,Evening
+M,N,Fishing,Night
+M,N,Snorkeling,Afternoon
+M,N,"Surfing, fell off surfboard & stepped on the shark.",Afternoon
+M,Y,Wreck / Technical diving,Afternoon
+M,N,Boogie boarding,Afternoon
+M,N,Walking in shallows,Evening
+M,Y,Swimming ,Evening
+F,N,Standing,Afternoon
+M,N,Wading,Afternoon
+M,N,Boogie Boarding,Afternoon
+M,N,Surfing,Afternoon
+F,N,Surfing,Afternoon
+F,N,Surfing,Morning
+M,N,Swimming,Morning
+M,N,Boogie boarding,Afternoon
+M,N,Floating face-down in knee-deep water,Evening
+M,N,Boogie boarding,Afternoon
+M,N,Body boarding,Afternoon
+M,N,Surfing,Morning
+M,N,Surfing,Afternoon
+M,N,Standing alongside surfboard,Afternoon
+M,N,Body-boarding,Afternoon
+M,N,Surfing,Afternoon
+M,Y,Swimming back from anchored sailboat,Afternoon
+M,N,Spearfishing,Morning
+M,N,Swimming,Morning
+M,Y,Swimming,Morning
+F,N,Swimming / snorkeling,Morning
+M,N,Body surfing,Afternoon
+M,N,Sitting on surfboard,Morning
+M,Y,Surfing,Afternoon
+M,Y,Surfing,Morning
+M,Y,Surfing,Evening
+M,N,Standing / surfing,Evening
+M,N,Swimming / Body surfing,Afternoon
+M,N,Swimming,Evening
+M,N,Free diving,Morning
+M,N,Wading,Morning
+M,N,Surfing,Evening
+M,N,Swimming,Afternoon
+M,Y,Jumped into the water,Afternoon
+M,N,"Windsurfing, but sitting on his board",Morning
+M,N,Surfing / Wading,Afternoon
+F,N,Standing,Afternoon
+M,N,Wading,Afternoon
+M,N,Swimming ,Evening
+F,N,Playing,Afternoon
+F,N,"Spearfishing, holding mesh bag with speared fish",Afternoon
+F,N,Standing,Afternoon
+M,N,Standing,Morning
+M,N,Swimming,Morning
+M,N,Swimming ,Morning
+M,N,Snorkeling,Afternoon
+M,N,Walking,Morning
+M,N,Boogie boarding / wading,Afternoon
+F,N,Boogie boarding,Morning
+M,N,Body surfing,Afternoon
+F,N,Swimming,Evening
+M,N,"Spearfishing, but swimming at surface",Morning
+M,N,Body surfing,Afternoon
+M,N,"Surfing, lying on surfboard",Evening
+M,N,Wading to shore after surfing,Evening
+M,N,Kayaking,Evening
+M,N,Wading with surfboard,Evening
+M,N,Surfing,Evening
+M,N,Lying prone in 2' of water,Evening
+M,N,Body surfing,Morning
+M,N,Spearfishing & holding catch,Evening
+M,N,Swimming with dolphins,Evening
+M,N,Surfing,Morning
+M,Y,Boogie boarding,Morning
+M,N,Surfing,Morning
+M,N,Splashing / wading,Afternoon
+M,Y,Windsurfing,Afternoon
+F,N,Swimming,Morning
+M,Y,Swimming after being swept into sea by a large wave,Morning
+F,Y,"Swimming, towing a kayak",Evening
+F,N,Swimming near pod of whales,Morning
+F,N,Standing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Surfing,Evening
+M,N,Boogie boarding,Afternoon
+M,Y,Free diving for abalone,Afternoon
+M,Y,Body Boarding,Morning
+M,N,Swimming / surfing,Afternoon
+M,N,Body boarding,Afternoon
+F,Y,Towing rubber dinghy,Afternoon
+M,N,Snorkeling  hunting crayfish and abalone,Evening
+M,N,Swimming,Morning
+M,Y,Spearfishing,Afternoon
+M,N,Body boarding or surfing,Morning
+M,N,Surfing,Evening
+F,N,Swimming,Morning
+M,N,Walking / surfing,Morning
+M,N,Surfing (sitting on his board),Afternoon
+F,N,Floating on raft,Afternoon
+M,N,Boogie boarding,Morning
+M,N,Body surfing,Afternoon
+M,N,Wading / Surfing,Morning
+M,N,Surfing,Afternoon
+M,Y,Surfing,Afternoon
+M,N,Spearfishing / night diving,Night
+F,N,Snorkeling,Afternoon
+M,N,"Body surfing, stood up on sandbar",Morning
+M,Y,Windsurfing,Evening
+M,N,Surfing,Morning
+M,N,Swimming,Afternoon
+M,N,Diving for abalone,Morning
+M,N,Surfing / Swimming,Afternoon
+M,N,Standing,Evening
+M,N,Sitting on surfboard,Afternoon
+M,N,Spearfishing,Morning
+M,N,Body Boarding,Afternoon
+M,N,Free diving for abalone,Morning
+M,N,Wade fishing,Afternoon
+F,N,Standing,Evening
+M,N,Free diving with a pod of dolphins,Evening
+F,N,Standing,Afternoon
+M,Y,Shell Diving,Morning
+M,N,Surfing,Morning
+F,N,Swimming breast stoke,Morning
+M,N,Swimming with mask & snorkel,Afternoon
+F,N,Playing / standing,Afternoon
+M,N,Windsurfing,Evening
+F,N,Swimming,Afternoon
+M,Y,Abalone diving using Hookah (near calving whales),Afternoon
+M,N,Abalone diving using Hookah (resting on the surface),Afternoon
+M,N,Body boarding,Afternoon
+M,N,Standing,Afternoon
+M,N,Scuba diving (ascending using scooter),Evening
+F,N,Swimming,Afternoon
+M,N,Swimming,Morning
+M,Y,Swimming,Afternoon
+M,Y,Scuba diving for bivalves,Morning
+M,N,Swimming,Evening
+M,Y,Swimming,Evening
+M,N,Body boarding,Afternoon
+M,Y,Commercial diver (submerged or treading water),Morning
+F,N,"Surfing, paddling seawards",Morning
+F,N,Jumped off rocks into white water,Morning
+M,Y,Windsurfing,Afternoon
+M,Y,Surfing,Afternoon
+M,N,Surfing,Afternoon
+M,N,Wading,Morning
+M,N,Freediving for seashells,Afternoon
+F,N,Swimming alongside NOAA research vessel Discoverer,Morning
+M,N,Swimming alongside NOAA research vessel Discoverer,Morning
+M,N,Fishing,Evening
+M,N,Windsurfing,Afternoon
+M,N,Swimming ,Afternoon
+M,Y,Hookah diving,Afternoon
+M,N,"Surfing, paddling shorewards",Morning
+F,N,Kayaking,Afternoon
+M,N,Swimming,Morning
+M,N,Spearfishing,Evening
+M,N,"Surfing, paddling seawards",Morning
+F,N,Riding floatation device,Morning
+M,N,Free diving for abalone (ascending),Afternoon
+F,N,Playing,Evening
+M,Y,Swimming,Morning
+F,Y,Scuba diving,Evening
+M,N,Paddling on surfboard or body board,Morning
+F,Y,Scuba diving at seal colony,Morning
+M,N,Floating on his back,Afternoon
+M,N,Paddling on surfboard,Afternoon
+M,N,Free diving & spearfishing (ascending),Afternoon
+M,N,Sea disaster,Night
+M,N,Lying on surfboard,Evening
+M,N,Spearfishing / free diving,Afternoon
+M,N,Kayaking,Afternoon
+M,N,Scuba diving (submerged),Afternoon
+M,Y,Body boarding,Morning
+M,N,Hookah diving for sea urchins,Morning
+M,N,Surfing,Morning
+M,Y,Surfing,Afternoon
+M,N,Surfing,Evening
+F,N,Standing,Afternoon
+M,N,Snorkeling,Afternoon
+M,Y,Hookah diving for pen shells ,Afternoon
+M,N,Surfing (sitting on his board),Morning
+M,N,Diving for pen shells,Morning
+M,N,Boogie boarding,Evening
+M,N,Swimming ,Evening
+M,N,Hookah diving for sea urchins,Afternoon
+F,N,Snorkeling,Morning
+M,Y,"Fishing from rocks, swept out to sea by large wave & treading water",Afternoon
+M,N,Fishing,Afternoon
+M,Y,Scuba diving,Afternoon
+F,N,Wading,Afternoon
+F,N,Canoeing,Afternoon
+M,N,Swimming,Evening
+M,N,Swimming behind sailboat,Morning
+M,N,Sitting on surfboard,Afternoon
+M,N,Scuba diving,Afternoon
+M,N,"Surfing, collided with shark",Morning
+M,N,Sitting on surfboard,Evening
+M,N,Swimming,Morning
+F,N,Scuba diving (but on surface),Afternoon
+M,N,Surfing,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,"Free diving / spearfishing, from paddleboard & floating on the surface",Afternoon
+M,N,Kayaking,Evening
+M,N,Wade fishing,Afternoon
+F,Y,Scuba diving (but on surface),Afternoon
+M,N,Resting on surfboard,Afternoon
+M,N,Lying on surfboard & paddling,Afternoon
+M,N,Surfing,Morning
+M,Y,Scuba diving & spearfishing,Night
+M,Y,Free diving & spearfishing,Afternoon
+M,N,Free diving,Afternoon
+M,N,Hookah diving for abalone (descending),Afternoon
+M,N,Surfing,Morning
+M,N,Windsurfing (urinating on his board),Afternoon
+M,N,Free diving,Afternoon
+M,N,Surfing (lying prone on his board),Morning
+M,Y,Surfing,Evening
+M,Y,"Scuba diving, but swimming on surface",Morning
+F,Y,Kayaking,Morning
+M,N,Lifesaving drill,Evening
+M,N,Surfing with dolphins,Evening
+M,N,Surfing (sitting on his board),Evening
+F,N,Walking,Afternoon
+M,Y,Snorkeling,Afternoon
+F,N,Swimming,Morning
+M,N,Spearfishing,Morning
+M,N,Sittting in water with his child,Afternoon
+M,N,Surfing,Morning
+M,N,Surfing / treading water,Morning
+M,Y,pêcheur de bichiques,Evening
+F,N,Lying atop surfboard,Morning
+M,N,Attempting to lasso shark's tail,Morning
+M,N,Spearfishing,Afternoon
+M,N,Wading,Morning
+M,N,Surfing (sitting on his board),Morning
+M,Y,Swimming,Afternoon
+M,N,Swimming,Morning
+M,Y,Body boarding,Evening
+M,N,Free diving  & spearfishing (submerged),Morning
+M,N,Racing ski,Morning
+M,N,Windsurfing,Morning
+M,N,Treading water,Afternoon
+M,N,Surfing,Morning
+M,N,Body boarding,Morning
+M,N,Hookah diving for abalone,Afternoon
+M,N,Surfing,Morning
+F,Y,Free diving for scallops,Afternoon
+M,N,Scuba Diving for lobster (at surface),Afternoon
+M,Y,Sailing on catamaran & fell into the water,Afternoon
+F,N,Surfing or body surfing,Afternoon
+M,N,Surfing (sitting on his board),Afternoon
+M,N,"Free diving , but surfacing",Morning
+M,Y,Skindiving,Morning
+M,N,Spearfishing,Evening
+M,N,"During a shark fishing tournament, the 18' Boatem was capsized by waves, throwing 3 men into the water ",Evening
+F,N,Towing her sister on plastic ski board,Evening
+M,N,Scuba diving,Morning
+M,N,Swimming,Morning
+M,N,Spearfishing,Morning
+F,Y,Swimming from the New Venture ,Night
+M,Y,Spearfishing,Afternoon
+M,N,Surfing & dangling foot in water amid baitfish,Afternoon
+M,N,Spearfishing,Evening
+M,N,Fishing,Evening
+M,N,Spearfishing,Morning
+M,N,Paddleskiing,Afternoon
+M,N,Windsurfing,Evening
+M,N,Windsurfing,Morning
+M,N,Free diving for abalone from Zodiac (submerged),Afternoon
+M,N,Paddleskiing,Afternoon
+M,N,Paddle Boarding,Morning
+M,Y,Surfing,Morning
+M,Y,Surfing,Afternoon
+M,N,Scuba diving (submerged),Morning
+M,N,Snorkeling on surface,Afternoon
+M,N,Spearfishing,Evening
+F,Y,Shell diving,Afternoon
+M,N,Standing / Wading,Afternoon
+M,N,Free diving Spearfishing,Morning
+M,N,Swimming,Evening
+M,N,Surf-skiing,Morning
+M,N,Paddleskiing,Evening
+M,N,Spearfishing,Morning
+M,Y,Hookah Diving,Morning
+M,N,Swimming,Afternoon
+M,N,Surfing,Morning
+M,N,Body surfing,Morning
+M,N,Scuba diving (submerged),Morning
+M,N,"Surfing, collided with shark",Afternoon
+M,Y,Spearfishing,Afternoon
+M,N,Diving,Morning
+M,N,Wading,Afternoon
+M,N,Free diving for abalone (surfacing),Morning
+M,N,Hookah diving for abalone (submerged),Morning
+M,N,"Thrashing the water / imitating the shark victim from ""Jaws""",Afternoon
+M,N,Standing,Afternoon
+M,N,Scuba diving & spearfishing,Afternoon
+M,N,Floating on a small orange raft ,Afternoon
+M,N,Free diving for abalone,Afternoon
+M,N,Scuba diving for abalone (at surface),Afternoon
+M,N,Hookah diving for abalone,Afternoon
+M,N,Swimming ,Afternoon
+F,N,Standing,Afternoon
+M,Y,Swimming underwater from crayfish cage to a fishing bait,Evening
+M,N,Hookah diving for abalone,Afternoon
+M,N,Scuba diving (but on surface),Evening
+F,N,Swimming,Morning
+M,N,Free diving (but on surface),Morning
+M,N,Standing,Afternoon
+M,N,Swimming,Afternoon
+M,N,Spearfishing,Morning
+M,Y,Swimming ,Afternoon
+M,N,"Free diving, Spearfishing",Afternoon
+M,Y,"Free diving, Spearfishing",Afternoon
+M,Y,Wading,Evening
+M,N,Treading water,Afternoon
+M,N,Swimming,Morning
+F,N,Sitting in shallows,Evening
+M,N,Standing,Afternoon
+F,N,Swimming,Afternoon
+M,Y,Swimming,Morning
+M,N,Scuba diving & feeding fish,Afternoon
+M,Y,Swimming,Morning
+M,Y,Fishing for prawns,Afternoon
+M,N,Diving,Morning
+M,N,Floating on a raft,Morning
+M,N,Scuba Diving,Afternoon
+M,Y,Wading,Afternoon
+M,N,Free diving for abalone,Morning
+M,N,Body surfing,Afternoon
+M,N,Freediving for abalone (at surface),Afternoon
+M,N,Wading,Evening
+M,N,Surf-fishing,Evening
+M,N,Freediving,Morning
+M,Y,Spearfishing,Morning
+M,N,Dynamite fishing,Morning
+M,N,Wading,Afternoon
+M,N,Clamming,Morning
+M,N,Spearfishing,Evening
+M,N,Standing on sandbar,Afternoon
+M,N,Pulling shark from the water,Afternoon
+M,Y,"Spearfishing, dived to pick up a float line",Morning
+F,N,Floating,Afternoon
+M,N,Beach seine netting,Night
+M,Y,Spearfishing,Afternoon
+M,N,Spearfishing,Evening
+M,N,Spearfishing,Morning
+M,Y,Lifesaving drill,Evening
+M,Y,The shrimper Loless Maurine capsized in heavy seas & the men were swimming ashore  ,Afternoon
+F,Y,Bathing,Morning
+M,N,"Free diving, carrying speargun",Afternoon
+F,N,Snorkeling,Evening
+M,N,Lobster diving using Scuba,Evening
+M,N,Killing a shark,Evening
+M,N,Clamming,Afternoon
+M,N,Fishing,Morning
+M,N,Fishing,Night
+M,N,Standing,Morning
+F,Y,Body surfing ,Afternoon
+M,N,Freediving,Afternoon
+M,N,"Hauling dead shark aboard, when another shark leapt out of the water & bit him",Night
+M,N,Fishing (rod & line),Afternoon
+M,Y,Bathing,Evening
+M,N,Walking on reef,Afternoon
+M,N,Paddling on surfboard,Morning
+M,N,Free diving,Afternoon
+M,N,Paddling rescue ski,Afternoon
+M,N,Body surfing,Afternoon
+M,N,Free diving with seals,Afternoon
+M,Y,Swimming out to rescue swimmers in difficulty,Afternoon
+M,N,"Surfing, but swimming to his board",Morning
+M,N,Floating on his back in an inner tube,Afternoon
+M,N,Spearfishing using scuba,Afternoon
+M,N,Skin diving ,Afternoon
+M,Y,Spearfishing,Morning
+M,N,preparing to go skin diving,Afternoon
+M,N,Body boarding,Morning
+M,Y,Swimming,Morning
+M,N,Body surfing,Afternoon
+M,N,Spearfishing / Scuba diving (at surface),Afternoon
+M,N,Swimming ,Afternoon
+M,Y,Swimming,Afternoon
+M,N,Helping friend land hooked shark,Evening
+M,Y,Splashing in surf,Afternoon
+M,N,Spearfishing,Afternoon
+M,N,Treading water while alongside capsized yacht,Afternoon
+F,N,Fishing / standing in waist deep water,Afternoon
+F,N,Fishing,Morning
+M,N,Spearing fish,Afternoon
+M,N,Testing anti-shark cage,Morning
+M,N,Fishing,Night
+M,N,"Surf fishing, wading ",Evening
+M,Y,Spearfishing / free diving,Morning
+M,Y,Spearing fish,Afternoon
+M,N,"Spearfishing, pulled sharks tail",Afternoon
+F,Y,Swimming,Afternoon
+M,Y,Swimming,Afternoon
+M,N,Surfing ,Afternoon
+F,Y,Wading,Afternoon
+M,N,"Free diving, hunting crayfish",Afternoon
+M,N,Scuba diving,Morning
+M,Y,Spearfishing,Afternoon
+M,N,Abandoning burning ship Captain George in raging seas,Morning
+M,Y,Wading,Morning
+M,Y,Spearfishing with Scuba gear,Morning
+M,N,Diving for abalone,Morning
+M,Y,Surf fishing in waist-deep water,Afternoon
+M,Y,Spearfishing,Evening
+M,N,Fishing for albacore,Afternoon
+M,N,Playing in surf with his child  (9),Evening
+M,N,Dived from inner-tube,Afternoon
+M,N,Rolled off raft,Morning
+M,N,"Scuba diving, attempting to catch a captive shark",Afternoon
+M,N,Free diving,Afternoon
+M,N,Swimming,Morning
+M,Y,Swimming,Morning
+M,Y,Treading water,Afternoon
+M,N,Splashing ,Afternoon
+M,N,Spearfishing / Scuba diving (at surface),Morning
+F,N,Surf fishing,Evening
+M,N,Fishing with hand net in 2' of water,Afternoon
+F,Y,Standing,Afternoon
+M,N,Standing,Afternoon
+M,N,Treading water,Afternoon
+M,N,Spearfishing,Morning
+M,N,Bathing,Afternoon
+M,Y,"Surfing, pushing board ashore",Morning
+M,N,Swimming with other crew near wharf,Afternoon
+M,N,Fishing,Morning
+M,N,"Survived US Naval aircraft crash, climbing onboard rescue vessel when he fell back into sea ",Morning
+M,N,"Free diving, surveying a pipeline & examing cathodes under jetty",Morning
+M,N,Wading,Morning
+M,N,"Net fishing, picking catch from the net",Evening
+M,Y,Scuba diving & spearfishing ,Morning
+M,N,Walking in chest-deep water,Morning
+M,N,Swimming,Morning
+M,Y,"Swimming, using bundles of sticks as raft",Morning
+M,N,Floating on back,Morning
+F,N,Standing,Evening
+M,Y,Swimming,Afternoon
+M,N,Swimming,Afternoon
+M,N,Standing,Evening
+M,Y,Swimming,Afternoon
+M,N,Ejected from F3H-2 aircraft ,Afternoon
+M,N,Swimming 3 miles offshore,Evening
+M,N,Free diving,Afternoon
+M,N,Standing in knee-deep water,Afternoon
+M,N,Holding shark on leader & dangling it above the water,Evening
+M,N,"Fishing, tossing netted shark onboard",Afternoon
+M,N,Surf fishing,Afternoon
+M,N,"Spearfishing, free diving, possibly ascended into path of cruising shark",Morning
+M,N,Free diving but treading water at surface,Afternoon
+F,N,Swimming ,Afternoon
+M,N,Treading water,Afternoon
+M,N,Skindiving for abalone (but at surface),Afternoon
+M,N,"Speared a grouper, saw shark but it came for him instead of the fish so he fired spear into sharks mouth. Then shark took grouper but unable to swallow because of the spear in its mouth.",Afternoon
+M,N,Treading water,Afternoon
+M,N,"Spearfishing, carrying fish on belt",Afternoon
+M,Y,Free diving,Afternoon
+M,Y,Dived from dinghy to retrieve oar in heavy seas,Morning
+M,Y,ship M.V. Rizal sank during typhoon,Afternoon
+M,N,Fishing for snapper,Afternoon
+M,N,Body surfing,Afternoon
+M,N,Standing in chest-deep water,Morning
+M,N,Trailing the field in a surf race,Morning
+M,N,Diving for abalone,Afternoon
+M,N,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",Evening
+M,N,Spearfishing (but on surface),Evening
+M,Y,Free diving for abalone,Evening
+M,Y,Treading water,Evening
+M,Y,Bathing with sister,Evening
+M,N,Treading water,Afternoon
+M,Y,In deep water about 100 yards from his ship,Afternoon
+M,N,"Surfing, but treading water",Morning
+M,N,Swimming,Afternoon
+M,Y,Swimming ashore from fishing boat swamped and sunk by a squall,Morning
+M,Y,Surfing on air mattress,Afternoon
+M,Y,Cleaning hull of ship ,Morning
+M,Y,Swimming,Afternoon
+M,Y,"""Climbing up to ship after repairing the stern in water""",Afternoon
+M,N,"Swimming, ducking for shells in water 0.9 m deep",Afternoon
+M,Y,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,Morning
+M,N,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,Morning
+M,N,"Spearfishing, had fish on his spear",Afternoon
+M,N,Wading,Evening
+M,N,Walking,Evening
+M,N,Diving,Evening
+F,Y,Paddling in knee-deep water,Morning
+M,Y,Swimming with goggles,Afternoon
+M,Y,Swimming,Morning
+F,N,Standing,Afternoon
+M,N,Skindiving,Morning
+M,Y,Floating,Afternoon
+M,Y,Standing,Afternoon
+M,N,Body surfing,Evening
+M,N,Competing in spearfishing championship & towing dead fish,Afternoon
+M,Y,Swimming,Afternoon
+M,N,Swimming between  anchored  pearling luggers,Afternoon
+M,Y,Spearfishing,Afternoon
+M,N,"Skindiving, fish at belt",Evening
+M,N,Swimming near pier,Afternoon
+M,Y,Floating in inner tube,Morning
+M,Y,"Swimming, attacked at  surf carnival",Afternoon
+M,Y,Diving into water,Morning
+M,N,Hunting turtle,Morning
+M,Y,Body surfing,Evening
+M,N,"Competing in U/W endurance record, standing beside drum in 10' of water",Morning
+M,Y,Swimming,Afternoon
+M,Y,Hunting lobsters in 2.4 m of water,Afternoon
+M,Y,Standing in knee-deep water,Afternoon
+M,Y,Swimming,Morning
+M,Y,Swimming near canoe,Afternoon
+M,N,Pearl diving from lugger Whyalla,Afternoon
+M,Y,Swimming,Evening
+M,N,Floating,Afternoon
+M,N,Swimming or wading out  to warn bathers that a shark had been seen,Afternoon
+M,Y,Spearfishing,Morning
+M,N,Accidentally dragged overboard from the sampan Holokahana into school of yellowfin tuna,Morning
+M,N,Spearfishing,Evening
+M,Y,Body surfing & treading water,Afternoon
+M,N,"Spearfishing, carrying fish on spear",Morning
+M,Y,Treading water,Afternoon
+M,N,Treading water,Evening
+M,Y,Swimming,Evening
+M,N,Free diving,Afternoon
+M,N,Body surfing,Afternoon
+M,N,Body surfing,Afternoon
+M,Y,Swimming,Afternoon
+M,Y,Treading water,Afternoon
+M,N,Body surfing,Evening
+M,N,Body surfing / treading water,Afternoon
+M,N,Jerked overboard while pole fishing for tuna,Morning
+M,Y,Survived crash of two-engine  C-46 transport plane carrying 62 migrant workers from Puerto Rico to USA ,Morning
+M,N,Treading water,Morning
+M,Y,Lifesaving drill,Evening
+M,Y,Body surfing,Afternoon
+M,N,Bathing ,Afternoon
+M,Y,Swimming,Afternoon
+M,N,Swimming near shore,Afternoon
+M,N,Floating on his back,Afternoon
+M,Y,Bathing in water 0.9 m deep,Afternoon
+M,Y,Lifesaving exhibition,Afternoon
+M,Y,"Treading water, waiting for a wave",Morning
+M,Y,Fishing / diving,Morning
+M,N,Fishing,Morning
+M,N,Body surfing,Evening
+M,N,"Moving shark from tuna vessel when boat rolled, placing both man & shark in chest-deep water",Morning
+M,N,Wading,Afternoon
+M,N,Treading water,Afternoon
+M,Y,Swimming after a tennis ball,Afternoon
+M,N,Fishing,Evening
+M,N,Treading water,Afternoon
+M,N,Standing,Afternoon
+M,N,Swimming ,Morning
+M,N,Jumping in swells,Afternoon
+M,N,Walking,Afternoon
+M,Y,Swimming ,Afternoon
+M,N,Treading water,Evening
+M,Y,Standing,Morning
+M,Y,Body surfing,Afternoon
+M,Y,Swimming,Evening
+M,Y,Treading water,Morning
+M,Y,Dived overboard to check propeller of US Navy motor torpedo boat,Afternoon
+M,Y,Swimming,Afternoon
+F,Y,Dog paddling or standing,Morning
+M,Y,U-177 torpedoed & sank the troopship Nova Scotia,Morning
+M,Y,Swimming ,Afternoon
+M,N,Treading water,Afternoon
+F,Y,Swimming,Afternoon
+M,N,Fishing from 32' boat,Afternoon
+M,Y,"Ditched aircraft, 3 men in the water. Swam for 31 hours",Evening
+M,N,Seine netting,Morning
+M,N,Rescuing seaman after ship sunk by German raider,Evening
+M,Y,Standing on sandbank,Morning
+M,Y,Swimming,Morning
+M,Y,Treading water,Morning
+M,Y,Swimming,Morning
+M,Y,Swimming ,Afternoon
+M,Y,Swimming ,Afternoon
+M,N,"Dress diving, filming shark & pulling it through the water for a motion picture scene",Afternoon
+M,Y,Swimming ,Evening
+M,N,"Diving from the lugger San, operated by the Protector of the Aborigines",Morning
+M,Y,Swimming,Afternoon
+M,Y,Swimming crawl stroke,Afternoon
+M,N,Diving for trochus,Morning
+M,Y,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",Evening
+M,Y,Swimming,Evening
+M,Y,Swimming,Afternoon
+M,Y,Standing,Evening
+M,N,Surfing (pneumatic surfboard),Evening
+F,N,Splashing,Evening
+M,Y,Swimming (lead swimmer in race),Afternoon
+M,Y,Taken as he dived into the water,Afternoon
+M,N,Swimming & splashing,Afternoon
+M,N,Body surfing,Morning
+M,Y,Swimming,Afternoon
+M,N,Swimming ,Afternoon
+M,Y,Swimming in waist-deep water ,Afternoon
+M,Y,Swimming in hip-deep water,Afternoon
+M,N,Splashing in water ,Afternoon
+M,N,Swimming on sandbar adjacent to channel,Afternoon
+M,Y,Swimming,Evening
+M,Y,Diving off wharf,Afternoon
+M,N,Fishing,Afternoon
+M,N,Swimming,Morning
+M,N,Swimming / floating,Evening
+M,Y,Diving off pier & treading water,Afternoon
+M,N,Standing in knee-deep water,Afternoon
+M,Y,Body surfing,Afternoon
+M,Y,Body surfing,Evening
+M,Y,Standing in waist-deep water,Evening
+M,N,Body surfing,Morning
+M,N,Body surfing / treading water,Afternoon
+M,N,Body surfing,Morning
+F,Y,Swimming ,Afternoon
+M,Y,Floating on his back,Afternoon
+M,N,Fishing,Morning
+M,N,Bathing in waist-deep water,Evening
+F,N,Bathing in 5' of water,Evening
+M,Y,Had just dived into water & was swimming,Afternoon
+M,Y,Bathing in 3' to 4' of water,Morning
+M,Y,Bathing in knee-deep water,Morning
+M,N,Standing,Evening
+M,Y,Dived into a school of baitfish,Afternoon
+F,N,Floating face down,Evening
+M,Y,Swimming ,Morning
+M,Y,Swimming,Morning
+M,N,"""Swimming vigorously""",Afternoon
+M,Y,Wading,Morning
+M,Y,Wading (shrimping),Morning
+M,N,Swimming,Morning
+M,Y,Swimming,Evening
+M,Y,Taking wife to beach & about 1 m from the shore,Morning
+F,N,Swimming 10 m from shore,Morning
+M,Y,Swimming,Morning
+M,N,Bathing,Afternoon
+M,N,Fishing boat,Morning
+M,N,Bathing,Morning
+M,N,"Diving, retrieving fish caught in net ",Morning
+M,Y,Bathing,Afternoon
+M,Y,Washing horses,Afternoon
+M,Y,Swimming,Afternoon
+M,N,"Standing, gathering oysters",Afternoon
+M,N,Floating on his back,Morning
+M,N,Bathing,Morning
+M,N,Bathing,Morning
+M,Y,Swimming,Night
+M,N,Fishing,Morning
+M,Y,Fishing,Morning
+M,Y,Swimming,Morning
+M,Y,"""Crossing the river""",Afternoon
+M,Y,His balloon crashed in the harbor,Afternoon
+M,Y,Bathing,Afternoon
+M,N,Fishing,Morning
+M,Y,Swimming,Afternoon
+M,N,Floating on his back,Morning
+M,Y,The passenger ship Kapuna was run down the ore carrier Ada Melmore,Night
+M,Y,Bathing,Afternoon
+M,N,Diving off jetty,Morning
+M,Y,Bathing,Morning
+M,Y,Swimming to retrieve a flannel,Morning
+M,N,Sailing,Afternoon
+M,Y,Bathing in river,Afternoon
+M,Y,Bathing,Morning
+M,N,Swimming alongside the schooner Catherine Wilcox,Morning
+M,Y,Reaching for life preserver,Afternoon
+M,N,Floating on back,Evening
+M,Y,Fell overboard,Morning
+M,Y,Swimming alongside the SS Kearsarge,Evening
+M,Y,Bathing alongside the American ship Thomas W. Sears,Morning
+M,Y,Bathing,Afternoon
+M,Y,Wreck of the steamship Birkenhead,Night
+M,Y,Bathing,Afternoon
+M,N,Conch diver,Afternoon
+M,Y,Swimming,Night
+F,N,Shark tagging,Evening
