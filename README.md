@@ -16,7 +16,7 @@ Este análisis ha permitido calcular la mortalidad de los ataques de tiburón en
 
 ### Hipótesis 1
 
-**"Teniendo en cuenta que la tasa de mortalidad de los hombres víctimas de ataques de tiburones es claramente menor que la de las víctimas masculinas."**
+**La tasa de mortalidad de los hombres víctimas de ataques de tiburones es claramente menor que la de las víctimas masculinas.**
 
 ![](imagenes/gender.png)
 
@@ -25,7 +25,7 @@ Los datos nos muestran que los ataques de tiburón a individuos de género mascu
 
 ### Hipótesis 2
 
-**"No se puede establecer una relación clara entre la actividad practicada y las posibilidades de que el ataque sea mortal"**
+**No se puede establecer una relación clara entre la actividad practicada y las posibilidades de que el ataque sea mortal**
 
 ![](imagenes/activity.png)
 
@@ -34,7 +34,7 @@ Los resultados obtenidos indican que la mayoría de las víctimas mortales de at
 
 ### Hipótesis 3
 
-**"El momento del día influye claramente en la fatalidad del ataque"**
+**El momento del día influye claramente en la fatalidad del ataque**
 
 ![](imagenes/time.png)
 
