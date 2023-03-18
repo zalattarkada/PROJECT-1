@@ -1,5 +1,8 @@
 # PROJECT SHARK
 
+---
+---
+
 ![](imagenes/shark1.gif)
 
 En el siguiente proyecto realizado en Ironhack, podremos encontrar un análisis de un data set sobre ataques de tiburones. https://www.sharks.org/global-shark-attack-file.
@@ -11,6 +14,18 @@ Para realizar el análisis de este documento, primero tuvimos que importar el ar
 ## Data analysis
 
 Este análisis ha permitido calcular la mortalidad de los ataques de tiburón en función de tres variables clave: el género de la víctima, la actividad que se estaba practicando en el momento del ataque y la franja horaria en la que se produjo. Para presentar de manera clara y concisa los resultados obtenidos, hemos creado tablas que sintetizan la información y permiten una fácil interpretación de los datos. A continuación, presentaremos las principales hipótesis y conclusiones obtenidas.
+
+## Hipótesis trabajadas
+
+**La tasa de mortalidad de los hombres víctimas de ataques de tiburones es claramente mayor que la de las víctimas femeninas.**
+
+**No se puede establecer una relación clara entre la actividad practicada y las posibilidades de que el ataque sea mortal.**
+
+**El momento del día influye claramente en la fatalidad del ataque.**
+
+
+---
+---
 
 ## Hipótesis
 
@@ -40,7 +55,8 @@ Los resultados obtenidos indican que la mayoría de las víctimas mortales de at
 
 Los resultados del análisis realizado nos muestran que los ataques sufridos de noche (de 21:00 a 04:00h) son más mortales que los que ocurren en otras franjas horarias. Los ataques que ocurren durante el mediodia (de 12:00 a 17:00h) también son levemente más letales que en otras franjas, no obstante la tasa de mortalidad no es tan pronunciadamente alta como en los ataques nocturnos.
 
-
+---
+---
 
 ## Conclusiones
 
